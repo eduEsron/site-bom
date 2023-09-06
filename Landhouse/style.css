@@ -1,10 +1,15 @@
-body{
-    background-image: url(C:\Users\EuduardoEsron\Desktop\Landhouse\images\circulo-azul-abstrato-na-tecnologia-de-fundo-preto_1142-12714.avif);
+.body{
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: black;
 }
 .insta{
     position: absolute;
-    top: 45%;
-    left: 35%;
+    top: 50%;
+    left: 30%;
+}
+.zapzop{
+    position: absolute;
+    top: 49%;
+    left: 45%;
 }
